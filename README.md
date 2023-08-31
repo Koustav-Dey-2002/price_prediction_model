@@ -1,1 +1,3 @@
-# price_prediction_model
+
+#prediction of price of house in Bangalore
+#
