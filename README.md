@@ -1,3 +1,4 @@
 
-#prediction of price of house in Bangalore
-#
+# prediction of price of houses in Bangalore
+# using Linear Regression
+# data visualization using matplotlib and seaborn
